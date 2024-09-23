@@ -19,3 +19,6 @@ Aula 03
   - Relação do pensamento computacional com o futuro do trabalho;
 
 Aula 04
+  - O que são variáveis;
+  - Quais são os tipos de dados;
+  - Diferentes segmentos e estrutura da Alocação de Memória;

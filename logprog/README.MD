@@ -22,3 +22,9 @@ Aula 04
   - O que são variáveis;
   - Quais são os tipos de dados;
   - Diferentes segmentos e estrutura da Alocação de Memória;
+
+Aula 05
+  - O que são Unidades de Medida de Informação;
+  - Conversão de unidades;
+  - O que é a tabela ASCII;
+  - Conversões entre Bases Numéricas;

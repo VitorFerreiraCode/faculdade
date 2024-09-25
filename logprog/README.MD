@@ -28,3 +28,9 @@ Aula 05
   - Conversão de unidades;
   - O que é a tabela ASCII;
   - Conversões entre Bases Numéricas;
+
+Aula 06
+  - Declaração de variável;
+  - Sintaxe para declarar variável;
+  - Regras para Definição de Nome das Variáveis;
+  - Exemplos de Declarações (Em Portugol);
